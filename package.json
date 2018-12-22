@@ -1,6 +1,6 @@
 {
   "name": "codyhazelwood",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "CLI Contact Card for Cody Hazelwood",
   "main": "bin/card.js",
   "bin": {
