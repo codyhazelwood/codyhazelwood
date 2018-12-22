@@ -1,0 +1,26 @@
+{
+  "name": "codyhazelwood",
+  "version": "0.1.0",
+  "description": "CLI Contact Card for Cody Hazelwood",
+  "main": "bin/card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codyhazelwood/codyhazelwood.git"
+  },
+  "keywords": [
+    "cody",
+    "hazelwood",
+    "contact",
+    "cli",
+    "developer"
+  ],
+  "author": "Cody Hazelwood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codyhazelwood/codyhazelwood/issues"
+  },
+  "homepage": "https://github.com/codyhazelwood/codyhazelwood#readme"
+}
