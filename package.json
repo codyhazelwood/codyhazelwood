@@ -3,6 +3,9 @@
   "version": "0.2.0",
   "description": "CLI Contact Card for Cody Hazelwood",
   "main": "bin/card.js",
+  "bin": {
+    "codyhazelwood": "bin/card.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
